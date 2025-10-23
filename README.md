@@ -2,6 +2,7 @@
 all the 5 tasks are completed
 
 Python Developer Assignment (For Freshers)
+
 Author
 
 Mayank Kumar
